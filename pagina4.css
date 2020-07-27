@@ -1,0 +1,52 @@
+body{
+	background:#BDBDBD;
+}
+
+h1{
+	font-family:Onyx;
+	font-size:30px;
+	text-align:center;
+	text-decoration:underline;
+}
+
+img{
+	padding:10px;
+	border:1px solid #000;
+	display:block;
+	margin:auto;
+	height:350px;
+	width:550px;
+	border-radius:30px;
+}
+
+.p1{
+	font-family:MV Boli;
+	text-align:left;
+	font-size:20px;
+}
+
+.p2{
+	font-size:25px; 
+	font-family:MV Boli;
+}
+
+.p2:hover{
+	transition:1s;
+	font-size:27px;
+}
+
+.lista1{
+	font-size:18px;
+	background:white;
+	width:300px;
+	border-radius:15px;
+	font-family:MV Boli;
+}
+
+.lista2{
+	font-size:18px;
+	background:white;
+	width:300px;
+	border-radius:15px;
+	font-family:MV Boli;
+}

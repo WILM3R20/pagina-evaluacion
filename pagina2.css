@@ -1,0 +1,43 @@
+body{
+	background:#1C1C1C;
+
+}
+
+h1{
+	text-align:center;
+	text-decoration:underline;
+	color:white;
+	font-family:Onyx;
+}
+
+h1:hover{
+	transition:.4s;
+	color:skyblue;
+}
+
+.p1{
+	font-family:MV Boli;
+	background:white;
+	font-size:20px;
+	margin: 30px;
+	width: 1300px;
+	border-radius:20px;
+}
+
+.p1:hover{
+	transition:0.30s;
+	background-color:skyblue;
+	width:1300px;
+}
+
+img{
+	left:-300px;
+	display:block;
+	margin:auto;
+	height:450px;
+	width:650px;
+	border-radius:30px;
+	padding:10px;
+	border:1px solid #FF8000;
+
+}
